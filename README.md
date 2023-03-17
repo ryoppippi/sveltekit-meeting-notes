@@ -1,5 +1,7 @@
 # Made with ChatGPT-4
 
+https://user-images.githubusercontent.com/1560508/225990455-1a4a3a46-762c-4f8e-a953-11b5579a9ced.mov
+
 
 Person: 
 - 議事録サービスを作りたいです。sveltekitを用いて行いたい
